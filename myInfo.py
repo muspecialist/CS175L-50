@@ -2,4 +2,4 @@
 #Gil Eckert
 #myInfo
 print("My name is Gil Eckert")
-print("I am a teacher")
+print("I live at 1313 Mockingbird Lane")
